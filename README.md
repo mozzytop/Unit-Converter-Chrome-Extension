@@ -22,7 +22,7 @@ Click **Load unpacked** → select the unit-converter-extension folder _(not the
 <img width="396" height="596" alt="image" src="https://github.com/user-attachments/assets/0ca5a360-145d-4611-bfc1-d4a8e8b98337" />
 <img width="399" height="834" alt="image" src="https://github.com/user-attachments/assets/babd9f97-6c2f-41fd-a383-e942cebabd10" />
 
-# Units + Categories Available
+# Available Units + Categories
 Below is the **complete** list of categories and their associated units for the Unit Converter extension.
 
 ## Standard Physics & Measurement
@@ -52,7 +52,7 @@ Below is the **complete** list of categories and their associated units for the 
 * **Imperial/US:** Acre [ac], Square Mile [mi²], Square Yard [yd²], Square Foot [ft²], Square Inch [in²], Square Mile (US survey), Square Foot (US survey), Township, Section, Acre (US survey), Rood, Square Chain, Square Rod, Square Mil.
 * **Specialty:** Circular Inch, Circular Mil, Homestead, Sabin, Arpent.
 
-### Temperature (Special Conversion)
+### Temperature _(Special Conversion)_
 * Kelvin [K], Celsius [°C], Fahrenheit [°F], Rankine [°R], Reaumur [°Re], Delisle [°De], Newton [°N], Rømer [°Rø].
 
 ### Time
