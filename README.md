@@ -1,28 +1,29 @@
-# Unit-Converter-Chrome-Extension
-The extension covers 50+ categories, organized into groups: Common (Length, Weight, Volume, Temperature, Area, Pressure, Energy, Power, Force, Time, Speed, Angle, Fuel Consumption, Data Storage), Engineering (Angular Velocity, Acceleration, Density, Torque, etc.), Heat, Fluids, Light, Electricity, Magnetism, Radiology, and Other.
+# Unit Converter Google Chrome Extension
+The extension covers **50+** categories, organized into groups: Common (Length, Weight, Volume, Temperature, Area, Pressure, Energy, Power, Force, Time, Speed, Angle, Fuel Consumption, Data Storage), Engineering (Angular Velocity, Acceleration, Density, Torque, etc.), Heat, Fluids, Light, Electricity, Magnetism, Radiology, and Other _(see below for complete list)_.
 
-## Features:
-Category search — type to filter the 50+ categories 
-Unit search — type-to-filter within each unit dropdown 
-Bidirectional — edit either the FROM or TO field and it converts both ways
-Swap button — reverses the units with a spin animation
-Quick Reference panel — shows common conversions for the current input at a glance (click any row to set as target)
-Formula bar — shows the full conversion equation
-State persistence — remembers your last category/units/value within the session
-Special handling for Temperature (non-linear formulas for all 8 scales) and Sound (dB/Neper/Bel)
+## Features (see preview below)
+**Category search** — type (or scroll) to filter 50+ categories
+**Unit search **— type (or scroll) to filter within each unit dropdown 
+**Bidirectional** — edit either the **FROM** or **TO** field and it converts both ways
+**Swap button** — reverses the units with a spin animation
+**Quick Reference panel** — shows common conversions for the current input at a glance
+**Formula bar** — shows the full conversion equation
+**Special handling for Temperature** (non-linear formulas for all 8 scales) and Sound (dB/Neper/Bel)
 
-# Instructions
+# INSTRUCTIONS
 To load in Chrome:
-Download the unit-converter.zip and extract it
+Download the **unit-converter.zip** and extract it
 Go to chrome://extensions/
-Enable Developer mode (top-right toggle)
-Click Load unpacked → select the unit-converter-extension folder
+**Enable Developer mode (top-right toggle)**
+Click **Load unpacked** → select the unit-converter-extension folder _(not the .zip)_
 
 # Chrome Extension Preview
 <img width="398" height="536" alt="image" src="https://github.com/user-attachments/assets/34afed3e-e303-46c1-bf35-1917d41bc7ed" />
+<img width="396" height="596" alt="image" src="https://github.com/user-attachments/assets/0ca5a360-145d-4611-bfc1-d4a8e8b98337" />
+<img width="399" height="834" alt="image" src="https://github.com/user-attachments/assets/babd9f97-6c2f-41fd-a383-e942cebabd10" />
 
 # Units + Categories Available
-Based on the `units.js` file provided, here is the complete list of categories and their associated units for the Unit Converter extension.
+Below is the **complete** list of categories and their associated units for the Unit Converter extension.
 
 ## Standard Physics & Measurement
 
