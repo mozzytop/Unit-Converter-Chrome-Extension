@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Unit Converter</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="app">
+    <header>
+      <div class="logo">
+        <span class="logo-icon">⇄</span>
+        <span class="logo-text">Unit Converter</span>
+      </div>
+    </header>
+
+    <div class="category-section">
+      <div class="search-wrap">
+        <input type="text" id="categorySearch" placeholder="Search category..." autocomplete="off" spellcheck="false">
+        <span class="search-icon">⌕</span>
+      </div>
+      <select id="categorySelect" size="1"></select>
+    </div>
+
+    <div class="converter">
+      <!-- FROM -->
+      <div class="unit-group">
+        <div class="unit-search-wrap">
+          <input type="text" class="unit-search" id="fromSearch" placeholder="Search unit..." autocomplete="off" spellcheck="false">
+        </div>
+        <select id="fromUnit"></select>
+        <input type="number" id="fromValue" placeholder="Enter value" autocomplete="off">
+      </div>
+
+      <!-- SWAP -->
+      <button class="swap-btn" id="swapBtn" title="Swap units">⇅</button>
+
+      <!-- TO -->
+      <div class="unit-group">
+        <div class="unit-search-wrap">
+          <input type="text" class="unit-search" id="toSearch" placeholder="Search unit..." autocomplete="off" spellcheck="false">
+        </div>
+        <select id="toUnit"></select>
+        <input type="number" id="toValue" placeholder="Result" autocomplete="off">
+      </div>
+    </div>
+
+    <div class="formula-bar" id="formulaBar"></div>
+
+    <div class="common-conversions" id="commonConversions"></div>
+  </div>
+
+  <script src="units.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Unit Converter",
+  "version": "1.0.0",
+  "description": "Comprehensive unit converter with 50+ categories",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "128": "icon.png"
+    }
+  },
+  "icons": {
+    "128": "icon.png"
+  }
+}
