@@ -1,5 +1,5 @@
 # Unit Converter Google Chrome Extension
-The extension covers **50+** categories, organized into groups: Common (Length, Weight, Volume, Temperature, Area, Pressure, Energy, Power, Force, Time, Speed, Angle, Fuel Consumption, Data Storage), Engineering (Angular Velocity, Acceleration, Density, Torque, etc.), Heat, Fluids, Light, Electricity, Magnetism, Radiology, and Other _(see below for complete list)_.
+The extension covers **50+** categories, organized into groups: Common _(Length, Weight, Volume, Temperature, Area, Pressure, Energy, Power, Force, Time, Speed, Angle, Fuel Consumption, Data Storage)_, Engineering _(Angular Velocity, Acceleration, Density, Torque, etc.)_, Heat, Fluids, Light, Electricity, Magnetism, Radiology, and Other _(see below for complete list)_.
 
 ## Features (see preview below)
 **Category search** — type (or scroll) to filter 50+ categories
