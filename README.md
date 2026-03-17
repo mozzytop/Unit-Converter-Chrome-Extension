@@ -10,7 +10,7 @@ The extension covers **50+** categories, organized into groups: Common _(Length,
 **Formula bar** — shows the full conversion equation
 **Special handling for Temperature** (non-linear formulas for all 8 scales) and Sound (dB/Neper/Bel)
 
-# INSTRUCTIONS
+# Instructions
 To load in Chrome:
 Download the **unit-converter.zip** and extract it
 Go to chrome://extensions/
