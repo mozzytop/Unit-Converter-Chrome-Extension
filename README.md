@@ -21,6 +21,7 @@ Click **Load unpacked** → select the unit-converter-extension folder _(not the
 <img width="398" height="536" alt="image" src="https://github.com/user-attachments/assets/34afed3e-e303-46c1-bf35-1917d41bc7ed" />
 <img width="396" height="596" alt="image" src="https://github.com/user-attachments/assets/0ca5a360-145d-4611-bfc1-d4a8e8b98337" />
 <img width="399" height="834" alt="image" src="https://github.com/user-attachments/assets/babd9f97-6c2f-41fd-a383-e942cebabd10" />
+<img width="398" height="840" alt="image" src="https://github.com/user-attachments/assets/407bc6d3-fe9f-428a-b40c-f44c9b5eb942" />
 
 # Available Units + Categories
 Below is the **complete** list of categories and their associated units for the Unit Converter extension.
